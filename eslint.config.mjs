@@ -29,6 +29,7 @@ const config = [
       "react/react-in-jsx-scope": "off",
       "@next/next/no-img-element": "off",
       "no-console": "warn",
+      "@typescript-eslint/no-non-null-asserted-optional-chain": "off"
     },
   },
 ];
